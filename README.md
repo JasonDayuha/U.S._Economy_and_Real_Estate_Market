@@ -1,1 +1,3 @@
 # Realty-and-Economics
+
+In this data analysis project we will be focusing on the U.S. economy and its interrelationship to real estate market. We will be analyzing data from various economic indicators to analyze the health of the economy. This is also a interest of mine to better understand the US economy and why certain factors are the way they are. As I reside in Hawaii I also would like to better improve my understanding of the local economy and how that relates to the local real estate market in the islands. I also hope that this project can help others in understanding the U.S. economy and real estate market as well. I will do my best to explain various concepts in a clear and easy-to-understand way.
